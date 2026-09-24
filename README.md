@@ -53,7 +53,9 @@ Because of the symmetry of the tee, when power enters the auxiliary arm and the 
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="957" height="678" alt="image" src="https://github.com/user-attachments/assets/7f7512c6-cba5-4314-8834-3b00001629bb" />
+
+<img width="971" height="497" alt="image" src="https://github.com/user-attachments/assets/aa944d10-d447-47d9-9804-b77694b3caf2" />
 
 ---
 
